@@ -1,6 +1,6 @@
 
 
-# L-Clearlag
+# Clearlag
 
 The plugin completely resolves the entity lag of versions 1.14/1.15/1.16/1.17/1.18!
 
